@@ -1,2 +1,16 @@
-# artisai
-ArtisAI is an AI-powered marketplace platform that empowers local artisans by connecting them with global customers. Featuring personalized recommendations, seamless browsing, and a modern animated UI, it helps artisans showcase their work and grow their business.
+# ArtisAI
+
+ArtisAI is a prototype AI-powered marketplace for local artisans.
+
+## Pages
+- Home (`index.html`)
+- Marketplace (`marketplace.html`)
+- AI Assistant (`assistant.html`)
+- Upload Product (`upload.html`)
+- About (`about.html`)
+- Contact (`contact.html`)
+
+## Tech
+- Bootstrap 5
+- Vanilla JS
+- Demo-only (no backend)
